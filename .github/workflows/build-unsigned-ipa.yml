@@ -18,8 +18,9 @@ jobs:
 
       - name: 🛠️ Install build dependencies
         run: |
-          brew install ninja llvm libarchive pkg-config
-          pip3 install meson
+          brew install ninja llvm libarchive pkg-config meson
+          echo "/opt/homebrew/opt/llvm/bin" >> $GITHUB_PATH
+          echo "/opt/homebrew/opt/libarchive/bin" >> $GITHUB_PATH
 
       - name: ⚙️ Copy build config templates
         run: |
