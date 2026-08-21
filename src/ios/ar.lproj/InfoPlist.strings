@@ -1,0 +1,20 @@
+/* Info.plist permission strings — Arabic */
+
+"NSLocationWhenInUseUsageDescription" = "يستخدم Minis موقعك لتسجيل مكان بدء جلسات الوكيل في سجل الجلسات.";
+"NSLocationAlwaysAndWhenInUseUsageDescription" = "يستخدم Minis الموقع في الخلفية للحفاظ على مهام الوكيل عند عمل التطبيق في الخلفية. تُستخدم بيانات الموقع فقط لتسجيل سجل اتصال الجلسات.";
+"NSCalendarsUsageDescription" = "يستخدم Minis الوصول إلى التقويم لكي يتمكن الوكيل من الاستعلام عن جدولك والتحقق من التوفر وإنشاء الأحداث نيابة عنك.";
+"NSCalendarsFullAccessUsageDescription" = "يستخدم Minis الوصول إلى التقويم لكي يتمكن الوكيل من الاستعلام عن جدولك والتحقق من التوفر وإنشاء الأحداث نيابة عنك.";
+"NSRemindersUsageDescription" = "يستخدم Minis الوصول إلى التذكيرات لكي يتمكن الوكيل من الاستعلام عن التذكيرات وإنشائها نيابة عنك.";
+"NSRemindersFullAccessUsageDescription" = "يستخدم Minis الوصول إلى التذكيرات لكي يتمكن الوكيل من الاستعلام عن التذكيرات وإنشائها نيابة عنك.";
+"NSCameraUsageDescription" = "يحتاج Minis إلى الوصول إلى الكاميرا لالتقاط الصور لمحادثات الذكاء الاصطناعي.";
+"NSPhotoLibraryUsageDescription" = "يحتاج Minis إلى الوصول إلى مكتبة الصور لإرفاق الصور في محادثات الذكاء الاصطناعي.";
+"NSPhotoLibraryAddUsageDescription" = "يحتاج Minis إلى إذن لحفظ مقاطع الفيديو والصور في مكتبة الصور.";
+"NSHealthShareUsageDescription" = "يستخدم Minis الوصول إلى HealthKit لكي يتمكن الوكيل من قراءة بيانات صحتك مثل الخطوات ومعدل ضربات القلب والنوم والتمارين نيابة عنك.";
+"NSHealthUpdateUsageDescription" = "يستخدم Minis إذن الكتابة في HealthKit لكي يتمكن الوكيل من تسجيل بيانات الصحة مثل الخطوات والوزن وشرب الماء نيابة عنك.";
+"NSContactsUsageDescription" = "يستخدم Minis الوصول إلى جهات الاتصال لكي يتمكن الوكيل من البحث عن جهات اتصالك وعرضها وإدارتها نيابة عنك.";
+"NSAppleMusicUsageDescription" = "يستخدم Minis الوصول إلى مكتبة الوسائط لكي يتمكن الوكيل من البحث في مكتبتك الموسيقية والتحكم في التشغيل نيابة عنك.";
+"NSMicrophoneUsageDescription" = "يحتاج Minis إلى الوصول إلى الميكروفون لإدخال النص بالصوت في المحادثة.";
+"NSSpeechRecognitionUsageDescription" = "يستخدم Minis التعرف على الكلام لتحويل صوتك إلى رسائل نصية.";
+"NSHomeKitUsageDescription" = "يستخدم Minis الوصول إلى HomeKit لكي يتمكن الوكيل من الاستعلام عن ملحقات منزلك الذكي والتحكم فيها نيابة عنك.";
+"NSAlarmKitUsageDescription" = "يستخدم Minis AlarmKit لكي يتمكن الوكيل من ضبط المنبهات والمؤقتات نيابة عنك.";
+"NSLocalNetworkUsageDescription" = "تحتاج الآلة الافتراضية إلى وصول الشبكة لشبكات SLIRP";
