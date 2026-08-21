@@ -1,0 +1,21 @@
+/* Siri invocation phrases for MinisShortcutsProvider (AppShortcuts).
+   Keys must match the code phrases exactly, with `\(.applicationName)`
+   spelled `${applicationName}`. Legacy .strings format (not .xcstrings)
+   because the deployment target is iOS 16. */
+
+"Ask ${applicationName}" = "اسأل ${applicationName}";
+"Ask ${applicationName} a question" = "اسأل ${applicationName} سؤالاً";
+"Talk to ${applicationName}" = "تحدث إلى ${applicationName}";
+"New ${applicationName} chat" = "محادثة ${applicationName} جديدة";
+"Run a ${applicationName} quick task" = "شغّل مهمة سريعة في ${applicationName}";
+"Use ${applicationName} quick task" = "استخدم مهمة سريعة في ${applicationName}";
+"Send a prompt to ${applicationName}" = "أرسل موجّهاً إلى ${applicationName}";
+"Ask ${applicationName} something" = "اسأل ${applicationName} شيئاً";
+"Start a ${applicationName} task" = "ابدأ مهمة في ${applicationName}";
+"Get ${applicationName} session status" = "احصل على حالة جلسة ${applicationName}";
+"Check ${applicationName} task" = "تحقق من مهمة ${applicationName}";
+"List ${applicationName} sessions" = "اعرض جلسات ${applicationName}";
+"Show ${applicationName} chats" = "اعرض محادثات ${applicationName}";
+"Follow up a ${applicationName} session" = "تابع جلسة ${applicationName}";
+"Continue a ${applicationName} session" = "أكمل جلسة ${applicationName}";
+"Open a ${applicationName} session" = "افتح جلسة ${applicationName}";
